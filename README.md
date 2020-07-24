@@ -9,7 +9,7 @@ Ada 5 hal yang dipelajari dan saya kerjakan dari Data Manipulation with Pandas -
 5. Mini Project
 
 Untuk mengunduh hasil project saya di folder ini, Anda dapat menjalankan perintah berikut di terminal Anda:
-git clone https://github.com/sermonzagoto/Data_Cleansing_in_Telco.git
+git clone https://github.com/sermonzagoto/Data_Manipulation_with_Pandas.git
 Atau meng-klik tombol hijau bertuliskan "Code" dan "Download ZIP" di bagian kanan atas halaman ini.
 
 # ⚙️ Instalasi
